@@ -1,0 +1,27 @@
+/* this is for the setting of the image width */
+.image{
+	width: 200px;
+}
+
+/* Programming assignment :/
+/* Responsive Website Basics: Code with HTML, CSS, and JavaScript */
+/* I write css file in three, different modifiers
+
+/* 1st modifier:; Contrastive color will attract people */
+body{
+    background: white; /* Back ground color is black by default */
+    color:yellow;     /* Text color is white by default */
+}
+
+/* 2nd modifier:; Big and excellent font will attract people */
+h1{
+	font-family: serif; /* Font family for the text is serif */
+	font-size:100pt;    /* Font size is big such as 100pt */
+	margin: 0 auto;
+}
+
+/* 3rd modifier:; Mouse pointer putting on around the text, color will chang */
+h1:hover{
+	color:black;        /* Color of the text will turn to black when your mouse pointer stays around the text */
+	background:yellow;  /* Color of the background will turn to yellow when your mouse pointer stays around the text */
+}
