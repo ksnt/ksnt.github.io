@@ -35,6 +35,9 @@
 	<table> 
 	<tr><td><p class='ksnt'><a href='http://google.co.jp' target='_blank'>About Us</a></p></td><td><p class='ksnt'></td></tr> 
 	</table> 
+        <table> 
+	<tr><td><p class='ksnt'><a href='./asobi' target='_blank'>Asobi</a></p></td><td><p class='ksnt'></td></tr> 
+	</table> 
 <!-- </div> -->
 <!--
 <div id ='contact'>
