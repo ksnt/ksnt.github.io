@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
@@ -23,3 +24,8 @@ See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitH
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
+=======
+# Simple home page
+
+Simple Homepage
+>>>>>>> 27458df4f055fb3cc82b2328d5adb9b16d62305f
