@@ -1,10 +1,18 @@
 ---
 layout: home
 ---
+
+# About Me
+
+Hi. My name is <b>Takayuki Kaisen</b>.  
+I am a software engineer, data analyst.
+
+<a href="/about">In detail</a>
+<br><br><br><br><br><br>
+
+
 # About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+<br>
+I am using a theme of Jekyll port by [Vangelis Tzortzis](https://github.com/srekoble).  
+This design is incredibly creative.

@@ -1,9 +1,10 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Takayuki Kaisen
+description: Home Page
+url: 
 logo: halve.png                                       # Site logo
 locale: en_US
+backhome: backhome.png # Go back home page
 
 # Left Block Images
 background:
@@ -31,11 +32,11 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            verisimilia
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             ksnt
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          takayuki-kaisen-9b4710105
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +53,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
