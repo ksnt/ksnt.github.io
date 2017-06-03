@@ -14,5 +14,5 @@ I am a software engineer, data analyst.
 # About Theme
 
 <br>
-I am using a theme of Jekyll port by [Vangelis Tzortzis](https://github.com/srekoble).  
+I am using a theme of Jekyll port by [Vangelis Tzortzis](https://github.com/srekoble).  <br>
 This design is incredibly creative.
