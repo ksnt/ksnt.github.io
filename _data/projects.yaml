@@ -1,12 +1,12 @@
 - title: Achievements
-  url: 
+  url: /achievements/
   image: https://cloud.githubusercontent.com/assets/530390/26750719/f343f692-4863-11e7-8831-f3c9a04c4996.png
-  completed: false
+  completed: true
 
 - title: Academic Achievements
-  url: /
+  url: /academic-achievements/
   image: https://cloud.githubusercontent.com/assets/530390/26750589/ec964734-4861-11e7-832c-0ac81419b631.png
-  completed: false
+  completed: true
 
 #- title: Halve Jekyll Theme
 #  url: http://taylantatli.me/Halve
