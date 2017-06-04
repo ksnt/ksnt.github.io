@@ -16,12 +16,12 @@ TDA
 
 ### Papers
 
-How ICT uses and social participants need to be connected? An empirical research from the perspective of the social capital theory. (in Japanese)
+1.How ICT uses and social participants need to be connected? An empirical research from the perspective of the social capital theory. (in Japanese)
 
 
 ### Presentation
 
-Connection between aims of ICT use and social participation - An empirical approach from the social capital perspective, the Tokyo Metropolitan University, Oct 7, 2012
+1.Connection between aims of ICT use and social participation - An empirical approach from the social capital perspective, the Tokyo Metropolitan University, Oct 7, 2012
 
 
 
