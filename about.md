@@ -3,9 +3,14 @@ layout: about
 ---
 # About Me
 
-Name:    Takayuki Kaisen  
-Place:   Tokyo, Japan  
-Contact: ksn0215(at)gmail.com  
+**Name:**    Takayuki Kaisen  
+**Place:**   Tokyo, Japan  
+**Contact:** ksn0215(at)gmail.com  
 
-Academic Background: Electrical Engineering, Complex Systems  
-Research Interests: Social Network Analysis, Computational Social Science, Computer Mediated Comunication
+**Favorite Languages:** Python, R, Scala  
+**Favorite OS:** Ubuntu
+
+
+**Academic Background:** Electrical Engineering, Complex Systems  
+**Research Interests:** Computational Social Science, Computer Mediated Comunication  
+**Research Methods:** Statistical Data Analysis, Social Network Analysis, Simulation  
