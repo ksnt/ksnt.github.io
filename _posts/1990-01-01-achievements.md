@@ -10,12 +10,13 @@ tag:
 
 ## Projects
 
-
 ### Data Science
 
 Big Data Analytics  
 
-Sampling Library  
+Resampling Library  
+
+Causal Inference Library  
 
 
 ### Web Pages
@@ -25,5 +26,4 @@ Sampling Library
 ---  
 
 ## Work in Progress
-
-
+ 
