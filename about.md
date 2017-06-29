@@ -13,4 +13,7 @@ layout: about
 
 **Academic Background:** Electrical Engineering, Complex Systems  
 **Research Interests:** Computational Social Science, Computer Mediated Comunication  
-**Research Methods:** Statistical Data Analysis, Social Network Analysis, Simulation
+**Research Methods:** Statistical Data Analysis, Social Network Analysis, Simulation  
+
+
+**Hobies:** Math, Movie, Music(Indie Rock, Techno), and so forth...
