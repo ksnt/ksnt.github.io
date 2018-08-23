@@ -1,6 +1,6 @@
 # Simple home page
 
-Simple Homepage
+Simple Homepage modified by Takayuki Kaisen
 
 # Credits
 - Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
