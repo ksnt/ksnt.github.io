@@ -10,20 +10,6 @@ tag:
 
 ## Projects
 
-### Data Science
+Now I am listing projects in my Linkedin page. Please visit the page.
 
-Big Data Analytics  
-
-Resampling Library  
-
-Causal Inference Library  
-
-
-### Web Pages
-
-
-
----  
-
-## Work in Progress
- 
+My Linkedin page is [HERE!](https://www.linkedin.com/in/takayuki-kaisen-9b4710105/)
