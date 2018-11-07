@@ -18,9 +18,3 @@ layout: about
 
 
 **Hobies:** Math, Movie, Music(Indie Rock, Techno), and so forth...
-
-## Achievements  
-
-
-**[works](https://ksnt.github.io/works/)**
-
