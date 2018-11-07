@@ -1,7 +1,7 @@
 ---
 layout: about
 ---
-# About Me
+## About Me
 
 **Name:**    Takayuki Kaisen  
 **Place:**   Tokyo, Japan  
@@ -19,7 +19,7 @@ layout: about
 
 **Hobies:** Math, Movie, Music(Indie Rock, Techno), and so forth...
 
-# Achievements
+## Achievements
 
 
 
