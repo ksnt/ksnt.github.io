@@ -7,7 +7,6 @@ layout: about
 **Place:**   Tokyo, Japan  
 **Contact:** ksn0215(at)gmail.com  
 
-**[works](https://ksnt.github.io/works/)**
 
 **Favorite Languages:** Python, R, Scala  
 **Favorite OS:** Ubuntu
@@ -19,3 +18,8 @@ layout: about
 
 
 **Hobies:** Math, Movie, Music(Indie Rock, Techno), and so forth...
+
+# Achievements
+
+**[works](https://ksnt.github.io/works/)**
+
