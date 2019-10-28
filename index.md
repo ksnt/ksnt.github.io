@@ -13,7 +13,7 @@ I am a software engineer, data analyst/scientist, and researcher.
 # News
 
 <br>
-I gave a talk at PyCon mini Hiroshima 2018, Oct 6 2018.  
+I gave a talk at PyCon mini Hiroshima 2019, Oct 12, 2019.  
 
 Thank you for listening to my presentation!  
 
